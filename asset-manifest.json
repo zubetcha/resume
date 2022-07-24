@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.17cd2693.css",
-    "main.js": "/static/js/main.cb0e2c6b.js",
+    "main.js": "/static/js/main.12a27f7e.js",
     "static/js/787.fceaaef4.chunk.js": "/static/js/787.fceaaef4.chunk.js",
     "static/media/모모.jpeg": "/static/media/모모.8db4c8d5ea586c00fd9f.jpeg",
     "static/media/또깡이.jpeg": "/static/media/또깡이.8fce3e916861c119b901.jpeg",
@@ -9,11 +9,11 @@
     "static/media/profileImage2.jpeg": "/static/media/profileImage2.b58611e379838977ffb6.jpeg",
     "index.html": "/index.html",
     "main.17cd2693.css.map": "/static/css/main.17cd2693.css.map",
-    "main.cb0e2c6b.js.map": "/static/js/main.cb0e2c6b.js.map",
+    "main.12a27f7e.js.map": "/static/js/main.12a27f7e.js.map",
     "787.fceaaef4.chunk.js.map": "/static/js/787.fceaaef4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17cd2693.css",
-    "static/js/main.cb0e2c6b.js"
+    "static/js/main.12a27f7e.js"
   ]
 }
